@@ -1,0 +1,18 @@
+body {
+	background-color: #359ab0;
+	color: #fff;
+	text-align: center;
+}
+.stopwatch {
+	font-size: 80px;
+}
+.controls a {
+	color: #fff;
+	font-size: 45px;
+	padding: 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	&:hover {
+		color: #d2a627;
+	}
+}
